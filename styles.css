@@ -36,3 +36,16 @@ input {
 img {
 	max-width: 300px;
 }
+
+.btn {
+	border: none;
+	border-radius: 30px;
+	background-color: yellow;
+	padding: 15px 20px;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: blue;
+} 
