@@ -1,0 +1,9 @@
+How does the internet work? What happens when you click on a link? 
+
+The internet is a large infrastructure that is connected to the Web. 
+It allows the computer to have access to web pages and communicate with others. 
+
+When clicking on a link, it is doing many things in the background in matter of seconds. 
+It then follows a procedure of steps to get the website that you're looking for. 
+
+Browser => Local DNS Cashe => Local Router DNS => ISP DNS => Root DNS Servers
